@@ -2,7 +2,9 @@
 Usage Steps:
 
 [Step1][CMD] pip install -r requirements.txt
+
 [Step2][CMD] python Karma.py
+
 [Step3][CMD] Input CSV file from SQL Querying Results
 
 
