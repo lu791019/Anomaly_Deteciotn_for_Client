@@ -622,23 +622,7 @@ if __name__ == '__main__':
     Model Inference...
     
 
-    D:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:229: FutureWarning: Passing integers to fillna is deprecated, will raise a TypeError in a future version.  To retain the old behavior, pass pd.Timedelta(seconds=n) instead.
-    D:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:279: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-    D:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:301: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-    D:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:322: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-    
+  
 
     Inference Complete...
     2020-02-20 19:34:22.389257
